@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">E - Wash</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="small">E - Wash</string>
+    <string name="Dateinput">Date:</string>
+    <string name="datehint">22/05/1999</string>
+    <string name="session">Session:</string>
+    <string name="submit">Submit</string>
+    <string name="appintro">E- Wash Booking App</string>
+    <string name="id">Student ID:</string>
+    <string name="idexample">18003781</string>
+    <string name="hour">Hour:</string>
+    <string name="course">Course:</string>
+    <string name="courseinput">CE/EE/ME</string>
+    <string name="welcome">WELCOME</string>
+    <string name="success">Successfully Updated Data</string>
+    <string name="booksuccess">Booking Confirmed</string>
+</resources>
